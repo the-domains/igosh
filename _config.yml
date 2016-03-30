@@ -1,0 +1,14 @@
+layout_spectrum: 0.5646197
+typography_spectrum: 0.1572682
+color:
+  saturation: 0.3709273
+  lightness: 0.5325814
+  brandStrength: 0.4987469
+  brandColors:
+    - '#1E2017'
+    - '#FFFFFF'
+    - '#655C39'
+    - '#8891A3'
+    - '#062166'
+  rhythmicContrast: 0.8784461
+name: igosh
