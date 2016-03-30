@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[igosh]]></title>
+        <description><![CDATA[igosh]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 16:38:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kult Anplakt]]></title>
+            <description><![CDATA[<article><h1>Kult Anplakt</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f9b8ad7-35d4-4ac6-a96e-34535344feca.png"></article>]]></description>
+            <link>undefinedkult-anplakt/index.html</link>
+            <guid isPermaLink="false">406bb9db-284c-48b1-bbeb-02378df322ce</guid>
+            <pubDate>Wed, 30 Mar 2016 16:37:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
